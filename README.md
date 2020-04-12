@@ -6,9 +6,25 @@
 
 <img src="pin-diagram.png" alt="pin diagram for the project" height="630px" width="700px" caption="pin diagram for the project">
 
-##### Following flowchart is for a layman
+
+
+##### The project requires following hardware components:
+- Arduino
+- Buzzer _(Optional)_
+- RFID Kit module
+    - RFID Sensor
+    - RFID Tag(s)
+- Half size breadboard _(or any breadboard)_
+- Micro servo motor
+- 4x4 keyboard
+- 6V battery _(Optional incase you want to run the project independent of a computer)_
+- 220ohm registers _(Optional)_
+- LEDs _(Optional)_
+- GSM module _(Optional)_
+- USB cable Male to Male _(From computer to Ardurino)_
+
+##### Following flowchart is for a layman:
 
 <img src="flowchart.png" alt="flowchart for the project">
 
-
-
+##  __Feel free to make pull requests__

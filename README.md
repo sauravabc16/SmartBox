@@ -4,7 +4,7 @@
 
 ##### Below is the pin diagram:
 
-<img src="pin-diagram.png" alt="pin diagram for the project" height="630px" width="700px" caption="pin diagram for the project">
+<img src="pin-diagram.png" alt="pin diagram for the project" height="630px" width="90%" caption="pin diagram for the project">
 
 
 

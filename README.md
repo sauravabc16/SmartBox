@@ -1,5 +1,9 @@
 # SmartBox-for-delivery
-### Ardrino controlled smart box with two factor authentication for delivery of food and other sensitive items.
+### Ardrino controlled smart box with two factor authentication for delivery of food and other sensitive items.<br>
+
+####Idea:
+- The idea is to make a delivery box which once closed and locked by the restaurant, can only be opened by the intended customer using a secure key.
+- We can use this product to store personal belongings like ornaments, important documents and money kept in offices and in organisations also.
 
 
 ##### Below is the pin diagram:
